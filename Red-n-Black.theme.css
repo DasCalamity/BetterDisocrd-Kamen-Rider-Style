@@ -6,16 +6,16 @@
 
 .app,
 .callout-backdrop {
-    background-image: url("http://imgur.com/a/pNG0V");
+    background-image: url("http://imgur.com/fiKF84Y.jpg");
     background-size: cover !important;
     background-position: center !important;
 }
 .bda-backdrop {
-    background: url("http://imgur.com/a/pNG0V");
+    background: url("http://imgur.com/fiKF84Y.jpg");
     background-size: cover!important;
 }
 #pubs-container:before {
-	background: url("http://imgur.com/a/pNG0V")!important;
+	background: url("http://imgur.com/fiKF84Y.jpg")!important;
     background-size: cover!important;
 }
 .layers,
